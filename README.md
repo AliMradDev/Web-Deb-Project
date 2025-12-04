@@ -56,13 +56,13 @@ This is a **full-stack online academy platform** built with **PHP, JavaScript, H
 
 ## 🛠️ Installation & Setup
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/AliMradDev/Web-Deb-Project.git
    
-2. Import the provided `database.sql` file into **phpMyAdmin** or your MySQL server.
+2. Import the provided `edulearn.sql` file into **phpMyAdmin** or your MySQL server.
 
-3. Update database configuration in `config/db.php` (host, username, password, database).
+3. Update database configuration in `database.php` (host, username, password, database).
 
-4. Run the project locally via **XAMPP/WAMP** or any PHP server:
+4. Run the project locally via **XAMPP/WAMP** or any PHP server
 
-5. Access the **Admin Panel** via:
+
 
